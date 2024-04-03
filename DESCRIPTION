@@ -1,7 +1,11 @@
 Package: cfdnakit
 Title: Fragmen-length analysis package from high-throughput sequencing of cell-free DNA (cfDNA) 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Version: 1.0.0
+=======
+Version: 1.1.2
+>>>>>>> 8708e86... version bump in devel
 =======
 Version: 1.1.2
 >>>>>>> 8708e86... version bump in devel
