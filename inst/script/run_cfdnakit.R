@@ -59,7 +59,7 @@ sample_bambin = read_bamfile(opt$bamfile,binsize = opt$binsize)
 
 
 #  >>>>> Reading package's healthy control plasma profile
-control_rds="BH01_chr15.RDS"
+control_rds="BH01_CHR15.SampleBam.rds"
 control_RDS_file =
   system.file("extdata",
               control_rds,
