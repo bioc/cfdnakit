@@ -1,6 +1,6 @@
 Package: cfdnakit
 Title: Fragmen-length analysis package from high-throughput sequencing of cell-free DNA (cfDNA) 
-Version: 1.4.0
+Version: 1.5.0
 Authors@R: person(given = "Pitithat",
            family = "Puranachot",
            role = c("aut", "cre"),
